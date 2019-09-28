@@ -1,2 +1,2 @@
 # ProgrammingFundamentals
-Programming Fundamentals in C Language
+ Programming Fundamentals -  Basic & Intermediate programs C Programming Language
