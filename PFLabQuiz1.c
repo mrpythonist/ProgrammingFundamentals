@@ -10,7 +10,7 @@ int main()
     {
         printf("Enter a number: ");
         scanf("%d", &n);
-        res = isMagicNumber(n);  // Function Calling
+        res = isMagicNumber(n);  // Function Calling,  Note: It will also be applied on -1 if we enter -1 to exit
         if(res==1) // If function returns 1 then add 1 to total
             total = total+1;
     }
